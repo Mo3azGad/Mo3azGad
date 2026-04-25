@@ -1,16 +1,22 @@
-## Hi there 👋
+## About Me
+My name is Moaz Gad.  
+I am a Computer Engineering student who enjoys learning new skills and exploring modern technology.  
+I like solving technical problems and working on creative ideas.
 
-<!--
-**Mo3azGad/Mo3azGad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Interests
+- Software Development
+- Artificial Intelligence
+- Cybersecurity
+- Mobile Applications
+- Database Systems
 
-Here are some ideas to get you started:
+## What I Want to Learn
+- Advanced Programming
+- Machine Learning
+- System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Goal
+To become a skilled engineer and create useful technology for people.
+
+## Thanks for Visiting
+Feel free to check my projects and progress.
